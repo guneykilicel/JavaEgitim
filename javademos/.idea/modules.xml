@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Degiskenler-VeriTipleri/degiskenler-variables/degiskenler-variables.iml" filepath="$PROJECT_DIR$/Degiskenler-VeriTipleri/degiskenler-variables/degiskenler-variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javademos.iml" filepath="$PROJECT_DIR$/.idea/javademos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Degiskenler-VeriTipleri/merhabaDunya-helloWorld/merhabaDunya-helloWorld.iml" filepath="$PROJECT_DIR$/Degiskenler-VeriTipleri/merhabaDunya-helloWorld/merhabaDunya-helloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Degiskenler-VeriTipleri/veri-tipleri-datatypes/veri-tipleri-datatypes.iml" filepath="$PROJECT_DIR$/Degiskenler-VeriTipleri/veri-tipleri-datatypes/veri-tipleri-datatypes.iml" />
+    </modules>
+  </component>
+</project>
